@@ -2,7 +2,7 @@
 
 ## Published data
 
-* Ministry of health updates, updated hourly from the official Telegram channel: `https://www.odata.org.il/dataset/mohreport-corona/resource/ce4c9482-cd3a-485b-af56-d3d7118a7552`
+* [Ministry of health updates, updated hourly from the official Telegram channel](https://www.odata.org.il/dataset/mohreport-corona/resource/ce4c9482-cd3a-485b-af56-d3d7118a7552)
 
 ## Install
 

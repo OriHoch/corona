@@ -3,3 +3,6 @@ jupyterlab==2.0.1
 requests==2.23.0
 pyquery==1.4.1
 plyvel==1.2.0
+google-api-python-client==1.8.0
+google-auth-httplib2==0.0.3
+google-auth-oauthlib==0.4.1

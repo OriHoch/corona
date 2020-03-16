@@ -34,6 +34,7 @@ We use Jenkins to run scheduled jobs, define the following job for each notebook
 * Git repository - set to the corona repo
 * Build periodically - `H * * * *` - to run hourly
 * Use secret text - variable `CKAN_API_KEY` - your CKAN api key for odata.org.il
+* Use secret file - variable `SERVICE_ACCOUNT_FILE` - Google service account file with access to relevant Google sheets
 * execute shell - 
 ```
 #!/usr/bin/env bash

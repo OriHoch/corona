@@ -1,0 +1,48 @@
+{
+  "bytes": 555902,
+  "count_of_rows": 172,
+  "hash": "05ba6b7919ca2c1306d22d32e543d0e7",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 555902,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "375160a58ef55b89a48d0fff11a4e066",
+      "name": "all_cards",
+      "path": "all_cards.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "is_patient",
+            "type": "boolean"
+          },
+          {
+            "format": "default",
+            "name": "header",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "body",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}

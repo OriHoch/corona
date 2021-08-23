@@ -1,5 +1,5 @@
 dataflows==0.0.71
-jupyterlab==2.0.1
+jupyterlab==2.2.10
 requests==2.23.0
 pyquery==1.4.1
 plyvel==1.2.0
